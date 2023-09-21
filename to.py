@@ -1,4 +1,2 @@
-print("Heoo,jei")
-print("hello")
-x = 5
-print (x)
+x = input("Type in a number: ")
+print(x)

@@ -1,0 +1,1 @@
+pythin -m pip install [package name]
